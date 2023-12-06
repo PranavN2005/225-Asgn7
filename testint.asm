@@ -1,6 +1,9 @@
+.text
+
+.globl main
 main:	
 	jal	isrinit
-	li a0,42
+	li 	a0,	42
 loop:	
 	jal	printChar
 	b loop
