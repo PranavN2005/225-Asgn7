@@ -1,5 +1,5 @@
 .text
-
+#ASGN7 BY PRANAV NALLAPERUMAL AND SCOTT FRIZZELL
 .globl main
 main:	
 	jal	isrinit
