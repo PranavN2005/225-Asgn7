@@ -1,4 +1,5 @@
 .text
+#ASGN7 BY PRANAV NALLAPERUMAL AND SCOTT FRIZZELL
 .globl	printInt		
 printInt:	
 	#li      a7,1           
